@@ -1,4 +1,4 @@
-# AWS AMI for CSYE 6225
+# AWS AMI
 
 # Setup
 create AMI template with .json extension

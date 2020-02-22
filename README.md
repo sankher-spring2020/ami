@@ -1,4 +1,4 @@
-# AWS AMI
+# AWS AMI 
 
 # Setup
 create AMI template with .json extension
